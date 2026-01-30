@@ -4,44 +4,35 @@ I'm a **third-year MSc student in Engineering Physics** at **:contentReference[o
 **scientific computing, applied mathematics, and data-driven methods**.
 
 This GitHub profile is where I upload:
-- 📘 **Coursework & assignments** from engineering physics and applied mathematics courses  
-- 🧪 **Numerical & computational projects** (PDEs, simulations, algorithms)  
-- 🚀 **Hackathon code & prototypes**  
-- 🔧 **Personal projects** exploring ideas beyond coursework  
+- 📘 **Coursework & assignments**
+- 🧪 **Computational and numerical projects**
+- 🚀 **Hackathon code**
+- 🔧 **Personal side projects**
 
 ---
 
 ### 🔬 Current focus
-- Numerical methods for PDEs & scientific computing  
-- Computational physics & simulations  
+
+- Numerical methods for PDEs and scientific computing  
+- Computational physics and simulations  
 - Data analysis, algorithms, and machine learning  
-- Writing clean, reproducible research code  
+
+
 
 ---
 
 ### 📂 What you’ll find here
 - **Course repositories** – structured solutions, reports, and implementations  
-- **Hackathons** – fast-paced problem solving and experimental ideas  
-- **Side projects** – tools, experiments, and concepts I wanted to try out  
+- **Hackathons** – fast-paced problem solving and prototypes  
+- **Side projects** – experiments beyond coursework  
 
-Most repositories are documented with the intent that others (and future me 😄) can follow the reasoning and methods.
+Repositories aim to be **clear, reproducible, and well-documented**.
 
 ---
 
-### 🛠 Tech I frequently use
+### 🛠 Tech I often use
 - **Languages:** Python, MATLAB, C/C++  
 - **Tools:** NumPy, SciPy, Matplotlib, LaTeX, Git  
-- **Focus:** numerical stability, performance, and clarity  
+- **Focus:** numerical stability, performance, clarity  
 
----
-
-### 🤝 Collaboration
-I’m always happy to:
-- Discuss numerical methods or computational physics  
-- Collaborate on scientific or data-driven projects  
-- Exchange ideas from hackathons or research problems  
-
----
-
-📫 **Feel free to reach out via GitHub or LinkedIn.**  
-Thanks for stopping by!
+📫 Feel free to reach out via GitHub or LinkedIn.
