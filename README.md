@@ -1,6 +1,6 @@
 ## Hello!
 
-I'm a **third-year MSc student in Engineering Physics** at **:contentReference[oaicite:0]{index=0}** with a strong interest in  
+I'm a **third-year MSc student in Engineering Physics** at Uppsala University with a strong interest in  
 **scientific computing, applied mathematics, and data-driven methods**.
 
 This GitHub profile is where I upload:
