@@ -1,7 +1,10 @@
 ## Hello!
 
-I'm a **third-year MSc student in Engineering Physics** at Uppsala University with a strong interest in  
-**scientific computing, applied mathematics, and data-driven methods**.
+I'm a **third-year MSc student in Engineering Physics** at Uppsala University.  
+Here I upload a mix of **coursework, projects, hackathon code, and other programming-related things** I’ve worked on.
+
+I’m especially interested in **clean and efficient code**, **machine learning**, and **computational / numerical methods**.
+
 
 This GitHub profile is where I upload:
 - 📘 **Coursework & assignments**
@@ -17,7 +20,10 @@ This GitHub profile is where I upload:
 - Computational physics and simulations  
 - Data analysis, algorithms, and machine learning  
 
-![Acoustic wave eq](img/Figure_6.png)
+<p align="center">
+  <img src="img/Figure_6.png" alt="Acoustic wave eq in 2D" width="70%">
+</p>
+
 
 
 ---
@@ -36,4 +42,6 @@ Repositories aim to be **clear, reproducible, and well-documented**.
 - **Tools:** NumPy, SciPy, Matplotlib, LaTeX, Git  
 - **Focus:** numerical stability, performance, clarity  
 
-📫 Feel free to reach out via GitHub or LinkedIn.
+📫 Feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/felixjmartin/).
+
+
