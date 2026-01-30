@@ -17,6 +17,7 @@ This GitHub profile is where I upload:
 - Computational physics and simulations  
 - Data analysis, algorithms, and machine learning  
 
+![Acoustic wave eq](img/Figure_6.png)
 
 
 ---
