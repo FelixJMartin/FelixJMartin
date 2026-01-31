@@ -3,8 +3,6 @@
 I'm a **third-year MSc student in Engineering Physics** at Uppsala University.  
 Here I upload a mix of **coursework, projects, hackathon code, and other programming-related things** I’ve worked on.
 
-I’m especially interested in **clean and efficient code**, **machine learning**, and **computational / numerical methods**.
-
 
 This GitHub profile is where I upload:
 - 📘 **Coursework & assignments**
