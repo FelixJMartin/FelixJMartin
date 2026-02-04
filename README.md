@@ -6,7 +6,7 @@ Here I upload a mix of **coursework, projects, hackathon code, and other program
 ---
 
 ###  Current project focus
-- Machine learning for particle tracking (ML Track Challenge–inspired) _bachelor thesis. 
+- Machine learning for particle tracking (ML Track Challenge–inspired) _bachelor thesis_. 
 - Computational physics and simulations  
 - Data analysis, algorithms, and machine learning  
 
