@@ -19,8 +19,11 @@ This GitHub profile is where I upload:
 - Data analysis, algorithms, and machine learning  
 
 <p align="center">
-  <img src="img/Figure_6.png" alt="Acoustic wave eq in 2D" width="70%">
+  <img src="img/Figure_6.png" alt="Acoustic wave equation in 2D" width="70%">
+  <br>
+  <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods as Course project.</em>
 </p>
+
 
 
 
