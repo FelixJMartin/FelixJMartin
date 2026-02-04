@@ -12,8 +12,8 @@ This GitHub profile is where I upload:
 
 ---
 
-### 🔬 Current focus
-
+### 🚧 Current project focus
+- Machine learning for particle tracking (ML Track Challenge–inspired) _bachelor thesis_
 - Numerical methods for PDEs and scientific computing  
 - Computational physics and simulations  
 - Data analysis, algorithms, and machine learning  
