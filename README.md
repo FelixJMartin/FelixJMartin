@@ -43,16 +43,15 @@ Repositories aim to be **clear, reproducible, and well-documented**.
 <p align="center">
   <img src="img/Figure_6.png" alt="Acoustic wave equation in 2D" width="70%">
   <br>
-  <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods as Course project.</em>
-</p>
+  <em>Numerical solution of the 2D acoustic wave equation with varying densities using SBP–projection methods, as part of a course project.</em>
+
 
 ---
 
 ### 🛠 Tech I often use
 - **Languages:** Python, MATLAB, C/C++  
-- **Tools:** NumPy, SciPy, Matplotlib, LaTeX, Git  
-- **Focus:** numerical stability, performance, clarity  
-
+- **Tools:** NumPy, SciPy, Matplotlib, Pandas, LaTeX, Git
+- 
 📫 Feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/felixjmartin/).
 
 
