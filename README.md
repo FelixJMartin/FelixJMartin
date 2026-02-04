@@ -18,10 +18,14 @@ This GitHub profile is where I upload:
 - Computational physics and simulations  
 - Data analysis, algorithms, and machine learning  
 
+
+
 <p align="center">
-  <img src="img/Figure_6.png" alt="Acoustic wave equation in 2D" width="70%">
+  <img src="img/4-Figure2-1.png" alt="Track reconstruction example" width="45%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="img/cern_graphic.png" alt="TrackML detector geometry at CERN" width="45%">
   <br>
-  <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods as Course project.</em>
+  <em>Visualization of particle track reconstruction in the TrackML challenge for LHC detectors at CERN.</em>
 </p>
 
 
@@ -35,6 +39,12 @@ This GitHub profile is where I upload:
 - **Side projects** – experiments beyond coursework  
 
 Repositories aim to be **clear, reproducible, and well-documented**.
+
+<p align="center">
+  <img src="img/Figure_6.png" alt="Acoustic wave equation in 2D" width="70%">
+  <br>
+  <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods as Course project.</em>
+</p>
 
 ---
 
