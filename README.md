@@ -27,7 +27,7 @@ Here I upload a mix of **coursework, projects, hackathon code, and other program
 
 ###  What you’ll find here
 - **Course repositories** – structured solutions, reports, and implementations  
-- **Hackathons** – fast-paced problem solving and prototypes  
+- **Hackathons** – Problem solving and prototypes  
 - **Side projects** – experiments beyond coursework  
 
 Repositories aim to be **clear, reproducible, and well-documented**.
