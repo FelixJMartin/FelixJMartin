@@ -2,8 +2,8 @@
 
 I'm **Felix Martin**, a third-year MSc student in **Engineering Physics** at Uppsala University.
 
-I work on **computational physics, machine learning, and scientific computing** — with a focus on solving real-world problems through code.
-
+Computational physics & ML student at Uppsala University. 
+I use GitHub to showcase coursework, research projects, and hackathon solutions.
 ---
 
 ## 🔬 Current Focus
