@@ -1,48 +1,63 @@
-## Hello!
+# Hello! 👋
 
-I'm a **third-year MSc student in Engineering Physics** at Uppsala University.  
-Here I upload a mix of **coursework, projects, hackathon code, and other programming-related things** I’ve worked on.
+I'm **Felix Martin**, a third-year MSc student in **Engineering Physics** at Uppsala University.
+
+I work on **computational physics, machine learning, and scientific computing** — with a focus on solving real-world problems through code.
 
 ---
 
-###  Current project focus
-- Machine learning for particle tracking (ML Track Challenge–inspired) _bachelor thesis_. 
-- Computational physics and simulations  
-- Data analysis, algorithms, and machine learning  
+## 🔬 Current Focus
 
+**Bachelor Thesis**: Machine learning for particle tracking (TrackML Challenge–inspired)
+- Developing algorithms for high-energy physics detector reconstruction
+- Working with CERN LHC detector data
+- Implementing track pattern recognition using ML techniques
 
+**Research interests**:
+- Computational physics and numerical methods
+- Scientific machine learning
+- Data analysis and algorithm development
 
 <p align="center">
   <img src="img/4-Figure2-1.png" alt="Track reconstruction example" width="45%">
   &nbsp;&nbsp;&nbsp;
   <img src="img/cern_graphic.png" alt="TrackML detector geometry at CERN" width="45%">
   <br>
-  <em>Visualization of particle track reconstruction in the TrackML challenge for LHC detectors at CERN.</em>
+  <em>Particle track reconstruction in the TrackML challenge for LHC detectors at CERN</em>
 </p>
-
-
-
 
 ---
 
-###  What you’ll find here
-- **Course repositories** – structured solutions, reports, and implementations  
-- **Hackathons** – Problem solving and prototypes  
-- **Side projects** – experiments beyond coursework  
+## 📂 What You'll Find Here
 
-Repositories aim to be **clear, reproducible, and well-documented**.
+🎓 **Course Projects** — Structured implementations from advanced physics and ML courses  
+🏆 **Hackathons** — Fast-paced problem solving and prototypes (CISPA, Uppsala challenges)  
+🔧 **Side Projects** — Experiments in simulation, optimization, and scientific computing  
+
+All repositories aim to be **clear, reproducible, and well-documented**.
 
 <p align="center">
   <img src="img/Figure_6.png" alt="Acoustic wave equation in 2D" width="70%">
   <br>
-  <em>Numerical solution of the 2D acoustic wave equation with varying densities using SBP–projection methods, as part of a course project.</em>
-
+  <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods</em>
+</p>
 
 ---
 
-### 🛠 Tech I often use
-- **Languages:** Python, MATLAB, C/C++  
-- **Tools:** NumPy, SciPy, Matplotlib, Pandas, LaTeX, Git 
-📫 Feel free to reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/felixjmartin/).
+## 🛠️ Tech Stack
 
+**Languages**: Python • MATLAB • C/C++  
+**Scientific Computing**: NumPy • SciPy • Matplotlib • Pandas  
+**Tools**: Git • LaTeX • Jupyter 
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixjmartin/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristofferNo)
+
+Feel free to reach out!
+
+---
 
