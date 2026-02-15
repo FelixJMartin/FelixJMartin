@@ -19,9 +19,9 @@ I work on **computational physics, machine learning, and scientific computing** 
 - Data analysis and algorithm development
 
 <p align="center">
-  <img src="img/4-Figure2-1.png" alt="Track reconstruction example" width="45%">
+  <img src="img/4-Figure2-1.png" alt="Track reconstruction example" height="300">
   &nbsp;&nbsp;&nbsp;
-  <img src="img/cern_graphic.png" alt="TrackML detector geometry at CERN" width="45%">
+  <img src="img/cern_graphic.png" alt="TrackML detector geometry at CERN" height="300">
   <br>
   <em>Particle track reconstruction in the TrackML challenge for LHC detectors at CERN</em>
 </p>
