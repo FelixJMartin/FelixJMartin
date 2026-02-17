@@ -19,9 +19,9 @@ I use GitHub to showcase coursework, research projects, and hackathon solutions.
 - Data analysis and algorithm development
 
 <p align="center">
-  <img src="img/4-Figure2-1.png" alt="Track reconstruction example" height="300">
+  <img src="img/MLtrack.png" alt="Track reconstruction example" height="300">
   &nbsp;&nbsp;&nbsp;
-  <img src="img/cern_graphic.png" alt="TrackML detector geometry at CERN" height="300">
+  <img src="img/Mltrack2.png" alt="TrackML detector geometry at CERN" height="300">
   <br>
   <em>Particle track reconstruction in the TrackML challenge for LHC detectors at CERN</em>
 </p>
