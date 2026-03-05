@@ -1,63 +1,59 @@
-# Hello! 👋
+# Felix Martin
 
-I'm **Felix Martin**, a third-year MSc student in **Engineering Physics** at Uppsala University.
+MSc student in Engineering Physics at Uppsala University (year 3/5), 
+specialising in computational science and machine learning.
 
-Computational physics & ML student at Uppsala University. 
-I use GitHub to showcase coursework, research projects, and hackathon solutions.
 ---
 
-## 🔬 Current Focus
+## Current work
 
-**Bachelor Thesis**: Machine learning for particle tracking (TrackML Challenge–inspired)
-- Developing algorithms for high-energy physics detector reconstruction
-- Working with CERN LHC detector data
-- Implementing track pattern recognition using ML techniques
-
-**Research interests**:
-- Computational physics and numerical methods
-- Scientific machine learning
-- Data analysis and algorithm development
+**Bachelor thesis** — Developing deep learning models for geometric reconstruction 
+from sparse, variable-length sensor data. Part of the UU ATLAS group, working with 
+data from CERN's LHC detector.
 
 <p align="center">
-  <img src="img/MLtrack.png" alt="Track reconstruction example" height="300">
-  &nbsp;&nbsp;&nbsp;
-  <img src="img/Mltrack2.png" alt="TrackML detector geometry at CERN" height="300">
+  <img src="img/MLtrack.png" height="180">
+  &nbsp;
+  <img src="img/Mltrack2.png" height="180">
   <br>
-  <em>Particle track reconstruction in the TrackML challenge for LHC detectors at CERN</em>
+  <em>Particle track reconstruction in LHC detector data</em>
 </p>
 
+**Teaching assistant** — Weekly calculus sessions at the Department of Mathematics, 
+Uppsala University.
+
 ---
 
-## 📂 What You'll Find Here
+## Background
 
-🎓 **Course Projects** — Structured implementations from advanced physics and ML courses  
-🏆 **Hackathons** — Fast-paced problem solving and prototypes (CISPA, Uppsala challenges)  
-🔧 **Side Projects** — Experiments in simulation, optimization, and scientific computing  
+My work sits at the intersection of physics and machine learning. I'm comfortable 
+with the full pipeline from raw data to trained model, and I enjoy problems where 
+the structure of the data matters — sparse signals, irregular geometry, high noise.
 
-All repositories aim to be **clear, reproducible, and well-documented**.
+Outside of ML I have experience with numerical methods, scientific computing, and 
+mathematical modelling from my engineering physics curriculum.
 
 <p align="center">
-  <img src="img/Figure_6.png" alt="Acoustic wave equation in 2D" width="70%">
+  <img src="img/Figure_6.png" width="55%">
   <br>
   <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods</em>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## What's here
 
-**Languages**: Python • MATLAB • C/C++  
-**Scientific Computing**: NumPy • SciPy • Matplotlib • Pandas  
-**Tools**: Git • LaTeX • Jupyter 
-
----
-
-## 📫 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixjmartin/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChristofferNo)
-
-Feel free to reach out!
+Course projects, research code, and hackathon submissions. Mostly Python. 
+I try to keep things readable and reproducible.
 
 ---
 
+## Skills
+
+Python (PyTorch, NumPy, SciPy, Pandas, scikit-learn) • MATLAB • Git • LaTeX
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/felixjmartin/) • felix.martin@hotmail.se
