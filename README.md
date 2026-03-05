@@ -9,7 +9,7 @@ specialising in computational science and machine learning.
 
 **Bachelor thesis** — Developing deep learning models for geometric reconstruction 
 from sparse, variable-length sensor data. Part of the UU ATLAS group, working with 
-data from CERN's LHC detector.
+data from CERN's LHC detector. Will post paper and code here onced finished!
 
 <p align="center">
   <img src="img/MLtrack.png" height="180">
@@ -26,12 +26,13 @@ Uppsala University.
 
 ## Background
 
-My work sits at the intersection of physics and machine learning. I'm comfortable 
-with the full pipeline from raw data to trained model, and I enjoy problems where 
-the structure of the data matters — sparse signals, irregular geometry, high noise.
+## Background
 
-Outside of ML I have experience with numerical methods, scientific computing, and 
-mathematical modelling from my engineering physics curriculum.
+I'm following the computational science track with an AI specialisation, which 
+covers computer vision, optimisation, deep learning, reinforcement learning, 
+and probabilistic machine learning, built on top of a physics and mathematics 
+foundation covering numerical methods, scientific computing, and modelling of 
+complex systems.
 
 <p align="center">
   <img src="img/Figure_6.png" width="55%">
