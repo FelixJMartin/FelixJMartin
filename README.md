@@ -12,9 +12,9 @@ from sparse, variable-length sensor data. Part of the UU ATLAS group, working wi
 data from CERN's LHC detector. Will post paper and code here onced finished!
 
 <p align="center">
-  <img src="img/MLtrack.png" height="180">
+  <img src="img/MLtrack.png" height="200">
   &nbsp;
-  <img src="img/Mltrack2.png" height="180">
+  <img src="img/Mltrack2.png" height="200">
   <br>
   <em>Particle track reconstruction in LHC detector data</em>
 </p>
