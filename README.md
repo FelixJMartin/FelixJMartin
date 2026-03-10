@@ -26,8 +26,6 @@ Uppsala University.
 
 ## Background
 
-## Background
-
 I'm following the computational science track with an AI specialisation, which 
 covers computer vision, optimisation, deep learning, reinforcement learning, 
 and probabilistic machine learning, built on top of a physics and mathematics 
