@@ -20,8 +20,11 @@ physics datasets.
   <em>Particle track reconstruction in LHC detector data</em>
 </p>
 
-
-
+<p align="center">
+  <img src="img/membrane_animation.gif" width="80%">
+  <br>
+  <em>Spiking neural network neurons learning to fire — membrane potentials and spike events over time</em>
+</p>
 ---
 
 ## Projects & hackathons
