@@ -1,15 +1,16 @@
 # Felix Martin
-
-MSc student in Engineering Physics at Uppsala University (year 3/5), 
-specialising in computational science and machine learning.
+MSc Engineering Physics, Uppsala University, specialising in 
+computational science and machine learning.
 
 ---
 
 ## Current work
 
-**Bachelor thesis** — Developing deep learning models for geometric reconstruction 
-from sparse, variable-length sensor data. Part of the UU ATLAS group, working with 
-data from CERN's LHC detector. Will post paper and code here onced finished!
+**Bachelor thesis — ATLAS Particle Physics Group, Uppsala University**
+Developing deep learning models to detect and reconstruct signals 
+from experimental data collected at CERN's Large Hadron Collider. 
+Benchmarking neural network architectures on large-scale, complex 
+physics datasets.
 
 <p align="center">
   <img src="img/MLtrack.png" height="200">
@@ -19,40 +20,54 @@ data from CERN's LHC detector. Will post paper and code here onced finished!
   <em>Particle track reconstruction in LHC detector data</em>
 </p>
 
-**Teaching assistant** — Weekly calculus sessions at the Department of Mathematics, 
-Uppsala University.
+**Teaching Assistant — Department of Mathematics, Uppsala University**
+Weekly calculus sessions for 35+ undergraduate students.
+
+---
+
+## Projects & hackathons
+
+**Multi-agent disinformation tracker** — Top 5, Google x Epiminds Hackathon.
+Built a multi-agent retrieval system using Claude to scrape and analyse 
+web sources in real time for disinformation detection.
+
+**VSCode developer assistant** — 2nd place, KTH AI Society x Florent Venture Hackathon.
+VSCode extension with a React frontend connected to a Claude-powered 
+backend for real-time developer assistance.
+
+**Open-source eye tracker** — Winner, Antler's National Start-up Buildathon.
+Built in React, capturing and storing gaze coordinate data for 
+cognitive analysis.
 
 ---
 
 ## Background
 
-I'm following the computational science track with an AI specialisation, which 
-covers computer vision, optimisation, deep learning, reinforcement learning, 
-and probabilistic machine learning, built on top of a physics and mathematics 
-foundation covering numerical methods, scientific computing, and modelling of 
-complex systems.
+Physics and mathematics foundation with a computational science and 
+AI specialisation. covering probabilistic ML, numerical methods, and 
+scientific computing.
 
 <p align="center">
   <img src="img/Figure_6.png" width="55%">
   <br>
-  <em>Numerical solution of the 2D acoustic wave equation using SBP–projection methods</em>
+  <em>Numerical solution of the 2D acoustic wave equation using SBP-projection methods</em>
 </p>
 
 ---
 
 ## What's here
 
-Course projects, research code, and hackathon submissions. Mostly Python. 
-I try to keep things readable and reproducible.
+Course projects, research code, and hackathon submissions. Mostly Python.
+Kept readable and reproducible.
 
 ---
 
 ## Skills
 
-Python (PyTorch, NumPy, SciPy, Pandas, scikit-learn) • MATLAB • Git • LaTeX
+Python (PyTorch, NumPy, SciPy, Pandas, scikit-learn) • LLMs & API Integration 
+- Multi-Agent Systems • Git/GitHub • Linux/Bash • MATLAB • LaTeX
 
 ---
 
 ## Contact
-
 [LinkedIn](https://www.linkedin.com/in/felixjmartin/) • felix.martin@hotmail.se
