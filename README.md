@@ -20,8 +20,7 @@ physics datasets.
   <em>Particle track reconstruction in LHC detector data</em>
 </p>
 
-**Teaching Assistant — Department of Mathematics, Uppsala University**
-Weekly calculus sessions for 35+ undergraduate students.
+
 
 ---
 
