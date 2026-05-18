@@ -37,7 +37,7 @@ web sources in real time for disinformation detection.
 VSCode extension with a React frontend connected to a Claude-powered 
 backend for real-time developer assistance.
 
-**Open-source eye tracker** — Winner, Antler's National Start-up Buildathon.
+**Open-source eye tracker** — Winner Local round, Antler's National Start-up Buildathon.
 Built in React, capturing and storing gaze coordinate data for 
 cognitive analysis.
 
