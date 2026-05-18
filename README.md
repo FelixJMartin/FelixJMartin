@@ -50,7 +50,7 @@ AI specialisation. covering probabilistic ML, numerical methods, and
 scientific computing.
 
 <p align="center">
-  <img src="img/Figure_6.png" width="55%">
+  <img src="img/Figure_6.png" width="70%">
   <br>
   <em>Numerical solution of the 2D acoustic wave equation using SBP-projection methods</em>
 </p>
