@@ -71,7 +71,7 @@ Kept readable and reproducible.
 
 ## Skills
 
-Python (PyTorch, NumPy, SciPy, Pandas, scikit-learn) • LLMs & API Integration 
+- Python (PyTorch, NumPy, SciPy, Pandas, scikit-learn) • LLMs & API Integration 
 - Multi-Agent Systems • Git/GitHub • Linux/Bash • MATLAB • LaTeX
 
 ---
