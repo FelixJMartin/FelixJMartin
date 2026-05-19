@@ -20,10 +20,9 @@ Benchmarking neural network architectures on large-scale, complex
 physics datasets.
 
 <p align="center">
-  <img src="img/MLtrack.png" height="200">
-  &nbsp;
-  <img src="img/Filtering.png" height="200">
-
+  <img src="img/MLtrack.png" width="700">
+  <br>
+  <img src="img/Filtering.png" width="700">
   <br>
   <em>Particle track reconstruction in LHC detector data</em>
 </p>
