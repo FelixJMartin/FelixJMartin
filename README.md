@@ -10,7 +10,6 @@ MSc Engineering Physics @ Uppsala University: specialising in computational scie
 - Research assistant in **Applied Nuclear Physics** : fusion event localisation via probabilistic simulation
 - 2nd place KTH × Florent Hackathon · Top 5 Google × Epiminds · Winner local round Anter Buildathon
 
----
 ## Current work
 
 **Bachelor thesis — ATLAS Particle Physics Group, Uppsala University**
@@ -32,7 +31,6 @@ physics datasets.
   <br>
   <em>Spiking neural network neurons learning to fire — membrane potentials and spike events over time</em>
 </p>
----
 
 ## Projects & hackathons
 
