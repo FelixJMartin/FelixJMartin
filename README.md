@@ -3,11 +3,14 @@
 ![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-3fb950?style=flat-square)
 
 # Felix Martin
-MSc Engineering Physics, Uppsala University, specialising in 
-computational science and machine learning.
+
+MSc Engineering Physics @ Uppsala University — specialising in computational science and machine learning applied to physics and engineering.
+
+- Bachelor's thesis at **ATLAS / CERN** : ML pipelines for signal detection in LHC data
+- Research assistant in **Applied Nuclear Physics** : fusion event localisation via probabilistic simulation
+- 2nd place KTH × Florent Hackathon · Top 5 Google × Epiminds
 
 ---
-
 ## Current work
 
 **Bachelor thesis — ATLAS Particle Physics Group, Uppsala University**
@@ -19,7 +22,8 @@ physics datasets.
 <p align="center">
   <img src="img/MLtrack.png" height="200">
   &nbsp;
-  <img src="img/Mltrack2.png" height="200">
+  <img src="img/Filtering.png" height="200">
+
   <br>
   <em>Particle track reconstruction in LHC detector data</em>
 </p>
