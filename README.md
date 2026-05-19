@@ -1,6 +1,5 @@
 ![Focus](https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Physics-4A90D9?style=flat-square)
 ![Tools](https://img.shields.io/badge/Tools-Python%20|%20PyTorch%20|%20React-555555?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Uppsala%2C%20Sweden-555555?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20opportunities-3fb950?style=flat-square)
 
 # Felix Martin
