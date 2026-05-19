@@ -23,7 +23,7 @@ physics datasets.
   <br>
   <img src="img/Filtering.png" width="700">
   <br>
-  <em>Particle track reconstruction in LHC detector data</em>
+  <em>Particle track reconstruction in LHC detector data using my 2 stage filtering neural network</em>
 </p>
 
 <p align="center">
