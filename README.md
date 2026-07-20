@@ -7,13 +7,13 @@
 MSc Engineering Physics @ Uppsala University: specialising in computational science and machine learning applied to physics and engineering.
 
 - Bachelor's thesis at **ATLAS / CERN** : ML pipelines for signal detection in LHC data
-- Research assistant in **Applied Nuclear Physics** : fusion event localisation via probabilistic simulation
-- 2nd place KTH × Florent Hackathon · Top 5 Google × Epiminds · Winner local round Anter Buildathon
+- **ECG machine learning model** : for clinical applications
+- 2nd place KTH × Florent Hackathon · Top 5 Google × Epiminds · Winner, local round, Antler's Buildathon
 
 ## Current work
 
 **Bachelor thesis — ATLAS Particle Physics Group, Uppsala University**
-Developing neuromporphic learning models to detect and reconstruct signals 
+Developing neuromorphic learning models to detect and reconstruct signals 
 from experimental data collected at CERN's Large Hadron Collider. 
 Benchmarking neural network architectures on large-scale, complex 
 physics datasets.
@@ -34,15 +34,15 @@ physics datasets.
 
 ## Projects & hackathons
 
-**Multi-agent disinformation tracker** : Top 5, Google x Epiminds Hackathon.
+**Multi-agent disinformation tracker** : Top 5, Google × Epiminds Hackathon.
 Built a multi-agent retrieval system using Claude to scrape and analyse 
 web sources in real time for disinformation detection.
 
-**VSCode developer assistant**  2nd place, KTH AI Society x Florent Venture Hackathon.
+**VSCode developer assistant** : 2nd place, KTH AI Society × Florent Venture Hackathon.
 VSCode extension with a React frontend connected to a Claude-powered 
 backend for real-time developer assistance.
 
-**Open-source eye tracker** Winner Local round, Antler's National Start-up Buildathon.
+**Open-source eye tracker** : Winner, local round, Antler's National Start-up Buildathon.
 Built in React, capturing and storing gaze coordinate data for 
 cognitive analysis.
 
@@ -51,7 +51,7 @@ cognitive analysis.
 ## Background
 
 Physics and mathematics foundation with a computational science and 
-AI specialisation. covering probabilistic ML, numerical methods, and 
+AI specialisation, covering probabilistic ML, numerical methods, and 
 scientific computing.
 
 <p align="center">
