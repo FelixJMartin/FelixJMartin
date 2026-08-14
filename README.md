@@ -46,6 +46,18 @@ physics datasets.
   <em>Spiking neural network neurons learning to fire — membrane potentials and spike events over time</em>
 </p>
 
+**ML research assistant — Uppsala University**
+
+U-Net segmentation model that extracts ECG waveform traces from plot images, trained on the PTB-XL dataset — a step toward automatically digitising ECG rhythm data for arrhythmia classification.
+
+<p align="center">
+  <img src="img/ecg_mask.png" width="700">
+  <br>
+  <img src="img/ecg_overlay.png" width="700">
+  <br>
+  <em>Ground-truth trace mask (top) and the trained model's prediction overlaid on the original ECG plot (bottom, purple = predicted and true trace agree)</em>
+</p>
+
 
 ## Projects & hackathons
 
