@@ -33,15 +33,13 @@ neural network architectures on large-scale, sparse, high-multiplicity
 physics datasets.
 
 <p align="center">
-  <img src="img/MLtrack.jpg" width="420">
-  <br>
   <img src="img/Filtering.png" width="700">
   <br>
   <em>Particle track reconstruction in LHC detector data using a two-stage filtering neural network</em>
 </p>
 
 <p align="center">
-  <img src="img/membrane_animation.gif" width="100%">
+  <img src="img/membrane_animation.gif" width="500">
   <br>
   <em>Spiking neural network neurons learning to fire — membrane potentials and spike events over time</em>
 </p>
@@ -51,9 +49,8 @@ physics datasets.
 U-Net segmentation model that extracts ECG waveform traces from plot images, trained on the PTB-XL dataset — a step toward automatically digitising ECG rhythm data for arrhythmia classification.
 
 <p align="center">
-  <img src="img/ecg_unet_architecture.png" width="420">
-  <br>
-  <img src="img/ecg_overlay.png" width="700">
+  <img src="img/ecg_unet_architecture.png" width="360">
+  <img src="img/ecg_overlay.png" width="360">
   <br>
   <em>The U-Net architecture (from Ronneberger, Fischer &amp; Brox, <a href="https://arxiv.org/abs/1505.04597">"U-Net: Convolutional Networks for Biomedical Image Segmentation"</a>, 2015) and the trained model's prediction overlaid on an ECG plot — purple = predicted and true trace agree</em>
 </p>
