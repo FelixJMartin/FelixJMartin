@@ -33,7 +33,7 @@ neural network architectures on large-scale, sparse, high-multiplicity
 physics datasets.
 
 <p align="center">
-  <img src="img/Filtering.png" width="700">
+  <img src="img/Filtering.png" width="500">
   <br>
   <em>Particle track reconstruction in LHC detector data using a two-stage filtering neural network</em>
 </p>
