@@ -89,20 +89,6 @@ GPA (SE): 4.63/5.0 · Credits: 300 ECTS
 Department of Computer Science (D-INFK), coursework in mathematics and machine learning.
 
 
-## Background
-
-A physics and mathematics foundation with a computational science and AI
-specialisation — probabilistic ML, numerical methods, and scientific
-computing.
-
-<p align="center">
-  <img src="img/Figure_6.png" width="55%">
-  <br>
-  <em>Numerical solution of the 2D acoustic wave equation using SBP-projection methods</em>
-</p>
-
-
-
 ## Skills
 
 - **ML & AI:** PyTorch · scikit-learn · LLMs & API integration · RAG & retrieval · multi-agent systems
