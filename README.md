@@ -6,9 +6,9 @@
 
 MSc Engineering Physics @ Uppsala University — computational science and machine learning applied to physics and engineering.
 
-- **Engineering intern @ [Redpine](https://www.redpine.ai/)** — retrieval systems at the intersection of semantic search and agentic methods
-- **ML research assistant @ Uppsala** — arrhythmia classification models trained on 3M+ ECG recordings
-- **Bachelor's thesis @ ATLAS / CERN** — neuromorphic ML for signal detection in LHC data
+- **Engineering intern @ [Redpine](https://www.redpine.ai/)**
+- **ML research assistant @ Uppsala University**
+- **Bachelor's thesis @ ATLAS / CERN**
 
 
 ## Now
@@ -32,6 +32,8 @@ signals from data collected at CERN's Large Hadron Collider. Benchmarked
 neural network architectures on large-scale, sparse, high-multiplicity
 physics datasets.
 
+[→ Repo](https://github.com/FelixJMartin/ML-track-reconstruction-thesis)
+
 <p align="center">
   <img src="img/Filtering.png" width="500">
   <br>
@@ -47,6 +49,8 @@ physics datasets.
 **ML research assistant — Uppsala University**
 
 U-Net segmentation model that extracts ECG waveform traces from plot images, trained on the PTB-XL dataset — a step toward automatically digitising ECG rhythm data for arrhythmia classification.
+
+[→ Repo](https://github.com/FelixJMartin/mmecg)
 
 <table align="center">
   <tr>
@@ -74,6 +78,17 @@ Built in React, capturing and storing gaze-coordinate data for cognitive
 analysis.
 
 
+## Education
+
+**MSc Engineering Physics — Uppsala University** · Uppsala, Sweden · Sep 2023 – Jun 2028
+Specialization: Computational science with an AI profile — deep learning and numerical methods.
+Selected coursework: Statistical Machine Learning, Probability & Statistics, Computational Finance.
+GPA (SE): 4.63/5.0 · Credits: 300 ECTS
+
+**Exchange Semester — ETH Zurich** · Zurich, Switzerland · Feb 2027 – Jun 2027
+Department of Computer Science (D-INFK), coursework in mathematics and machine learning.
+
+
 ## Background
 
 A physics and mathematics foundation with a computational science and AI
@@ -87,11 +102,6 @@ computing.
 </p>
 
 
-
-## What's here
-
-Course projects, research code, and hackathon submissions. Mostly Python,
-kept readable and reproducible.
 
 ## Skills
 
