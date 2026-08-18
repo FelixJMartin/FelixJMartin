@@ -4,20 +4,20 @@
 
 # Felix Martin
 
-MSc Engineering Physics @ Uppsala University — computational science and machine learning applied to physics and engineering.
+MSc Engineering Physics @ Uppsala University: computational science and machine learning applied to physics and engineering.
 
 - **Engineering intern @ [Redpine](https://www.redpine.ai/)**
 - **ML research assistant @ Uppsala University**
-- **Bachelor's thesis @ ATLAS / CERN**
+- **Bachelor's thesis @ ATLAS UU Group/ CERN**
 
 
 ## Now
 
-**Engineering intern — Redpine, Stockholm**
+**Engineering intern: Redpine, Stockholm**
 Improving retrieval systems by layering agentic methods over semantic
 search, and building agentic evaluations to quantify retrieval quality.
 
-**ML research assistant — Department of Information Technology, Uppsala University**
+**ML research assistant: Department of Information Technology, Uppsala University**
 Developing deep learning models that classify cardiac arrhythmias from
 3M+ ECG recordings, mapping rhythm disorders to their electrical signal
 patterns to support clinical decisions.
@@ -25,7 +25,7 @@ patterns to support clinical decisions.
 
 ## Research
 
-**Bachelor's thesis — ATLAS Particle Physics Group, Uppsala University**
+**Bachelor's thesis: ATLAS Particle Physics Group, Uppsala University**
 
 Developed neuromorphic learning models to detect and reconstruct particle
 signals from data collected at CERN's Large Hadron Collider. Benchmarked
@@ -43,7 +43,7 @@ physics datasets.
 <p align="center">
   <img src="img/membrane_animation.gif" width="500">
   <br>
-  <em>Spiking neural network neurons learning to fire — membrane potentials and spike events over time</em>
+  <em>Spiking neural network neurons learning to fire: membrane potentials and spike events over time</em>
 </p>
 
 **ML research assistant — Uppsala University**
