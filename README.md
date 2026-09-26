@@ -50,7 +50,7 @@ physics datasets.
 U-Net segmentation model that extracts ECG waveform traces from plot images, trained on the PTB-XL dataset — a step toward automatically digitising ECG rhythm data for arrhythmia classification.
 
 <p align="center">
-  <img src="img/ecg_mask.png" width="700">
+  <img src="img/ecg_unet_architecture.png" width="700">
   <br>
   <img src="img/ecg_overlay.png" width="700">
   <br>
