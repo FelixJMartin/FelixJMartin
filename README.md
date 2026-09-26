@@ -19,10 +19,6 @@ Building probabilistic forecasting models (Bayesian methods, state-space
 models, LSTMs) to predict revenue from intermittent renewable generation
 under market volatility.
 
-**Engineering intern: Redpine, Stockholm**
-Improving retrieval systems by layering agentic methods over semantic
-search, and building agentic evaluations to quantify retrieval quality.
-
 **ML research assistant: Department of Information Technology, Uppsala University**
 Developing deep learning models that classify cardiac arrhythmias from
 3M+ ECG recordings, mapping rhythm disorders to their electrical signal
