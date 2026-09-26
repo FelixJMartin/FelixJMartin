@@ -6,12 +6,18 @@
 
 MSc Engineering Physics @ Uppsala University: computational science and machine learning applied to physics and engineering.
 
+- **Data scientist (part-time) @ Locus Energy**
 - **Engineering intern @ [Redpine](https://www.redpine.ai/)**
 - **ML research assistant @ Uppsala University**
 - **Bachelor's thesis @ ATLAS UU Group/ CERN**
 
 
 ## Now
+
+**Data scientist (part-time): Locus Energy, Stockholm**
+Building probabilistic forecasting models (Bayesian methods, state-space
+models, LSTMs) to predict revenue from intermittent renewable generation
+under market volatility.
 
 **Engineering intern: Redpine, Stockholm**
 Improving retrieval systems by layering agentic methods over semantic
@@ -25,23 +31,21 @@ patterns to support clinical decisions.
 
 ## Research
 
-**Bachelor's thesis: ATLAS Particle Physics Group, Uppsala University**
+**Bachelor's thesis: ATLAS Particle Physics Group, Uppsala University** ([paper](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-597824))
 
 Developed neuromorphic learning models to detect and reconstruct particle
 signals from data collected at CERN's Large Hadron Collider. Benchmarked
 neural network architectures on large-scale, sparse, high-multiplicity
 physics datasets.
 
-[→ Repo](https://github.com/FelixJMartin/ML-track-reconstruction-thesis)
-
 <p align="center">
-  <img src="img/Filtering.png" width="500">
+  <img src="img/Filtering.png" width="700">
   <br>
   <em>Particle track reconstruction in LHC detector data using a two-stage filtering neural network</em>
 </p>
 
 <p align="center">
-  <img src="img/membrane_animation.gif" width="500">
+  <img src="img/membrane_animation.gif" width="100%">
   <br>
   <em>Spiking neural network neurons learning to fire: membrane potentials and spike events over time</em>
 </p>
@@ -50,16 +54,12 @@ physics datasets.
 
 U-Net segmentation model that extracts ECG waveform traces from plot images, trained on the PTB-XL dataset — a step toward automatically digitising ECG rhythm data for arrhythmia classification.
 
-[→ Repo](https://github.com/FelixJMartin/mmecg)
-
-<table align="center">
-  <tr>
-    <td align="center"><img src="img/ecg_unet_architecture.png" height="220"></td>
-    <td align="center"><img src="img/ecg_overlay.png" height="220"></td>
-  </tr>
-</table>
 <p align="center">
-  <em>The U-Net architecture (from Ronneberger, Fischer &amp; Brox, <a href="https://arxiv.org/abs/1505.04597">"U-Net: Convolutional Networks for Biomedical Image Segmentation"</a>, 2015) and the trained model's prediction overlaid on an ECG plot — purple = predicted and true trace agree</em>
+  <img src="img/ecg_mask.png" width="700">
+  <br>
+  <img src="img/ecg_overlay.png" width="700">
+  <br>
+  <em>Ground-truth trace mask (top) and the trained model's prediction overlaid on the original ECG plot (bottom, purple = predicted and true trace agree)</em>
 </p>
 
 
@@ -78,23 +78,30 @@ Built in React, capturing and storing gaze-coordinate data for cognitive
 analysis.
 
 
-## Education
+## Background
 
-**MSc Engineering Physics — Uppsala University** · Uppsala, Sweden · Sep 2023 – Jun 2028
-Specialization: Computational science with an AI profile — deep learning and numerical methods.
-Selected coursework: Statistical Machine Learning, Probability & Statistics, Computational Finance.
-GPA (SE): 4.63/5.0 · Credits: 300 ECTS
+A physics and mathematics foundation with a computational science and AI
+specialisation — probabilistic ML, numerical methods, and scientific
+computing.
 
-**Exchange Semester — ETH Zurich** · Zurich, Switzerland · Feb 2027 – Jun 2027
-Department of Computer Science (D-INFK), coursework in mathematics and machine learning.
+<p align="center">
+  <img src="img/Figure_6.png" width="55%">
+  <br>
+  <em>Numerical solution of the 2D acoustic wave equation using SBP-projection methods</em>
+</p>
 
+
+
+## What's here
+
+Course projects, research code, and hackathon submissions. Mostly Python,
+kept readable and reproducible.
 
 ## Skills
 
-- **ML & AI:** PyTorch · scikit-learn · LLMs & API integration · RAG & retrieval · multi-agent systems
-- **Data & engineering:** Python (NumPy, SciPy, Pandas) · SQL · Git/GitHub · Linux/Bash
-- **Scientific:** MATLAB · LaTeX · numerical methods · HPC (SLURM)
+- **Quantitative & ML:** Deep Learning · Time-Series Forecasting · Signal Processing · Optimization & Monte Carlo Methods
+- **Programming & Data:** Python (NumPy/Pandas, PyTorch, scikit-learn) · SQL · Git (CI/CD) · Linux/Bash · HPC (SLURM)
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/felixjmartin/) · felix.martin@hotmail.se
+[LinkedIn](https://www.linkedin.com/in/felixjmartin/) · [Google Scholar](https://scholar.google.com/citations?user=LAkZGKgAAAAJ&hl=sv) · felix.martin@hotmail.se
